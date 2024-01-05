@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-image: url(../image/cow.jpg);
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+}
+
